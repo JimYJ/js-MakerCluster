@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/JimYJ/js-MakerCluster.svg?branch=master)](https://travis-ci.org/JimYJ/js-MakerCluster)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/ugorji/go/master/LICENSE)
+
 #update
  * version: 0.6
  * desc:
